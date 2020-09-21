@@ -40,3 +40,21 @@
 .categories img{
     width: 100px;
 }
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#Contact-Us{
+    height: 300px;
+}
+.Contact-Us h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
